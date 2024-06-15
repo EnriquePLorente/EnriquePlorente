@@ -5,6 +5,7 @@ My name is Enrique, I am from Spain and I work as a geospatial data scientist. I
 ## Skills:
 - Remote Sensing
 - Deep Learning projects
+- Computer Vision
 - Supervised & Unsupervised Machine Learning projects
 - Data preprocessing and labeling
 
