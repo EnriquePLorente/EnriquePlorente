@@ -1,5 +1,3 @@
-# Enrique's GitHub Profile
-
 ## ¡Hello!
 
 My name is Enrique, I am from Spain and I work as a geospatial data scientist. In this repository, you will find some of the projects I have developed. I hope my experience can help guide your projects.
